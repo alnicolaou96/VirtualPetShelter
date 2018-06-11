@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\Projects\ProjectFour_AlexandrosNicolaou\ProjectFour_AlexandrosNicolaou\obj\Debug\ProjectFour_AlexandrosNicolaou.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\Projects\ProjectFour_AlexandrosNicolaou\ProjectFour_AlexandrosNicolaou\obj\Debug\ProjectFour_AlexandrosNicolaou.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\Projects\ProjectFour_AlexandrosNicolaou\ProjectFour_AlexandrosNicolaou\bin\Debug\ProjectFour_AlexandrosNicolaou.exe.config
+C:\Users\WeCanCodeIT\source\repos\Projects\ProjectFour_AlexandrosNicolaou\ProjectFour_AlexandrosNicolaou\bin\Debug\ProjectFour_AlexandrosNicolaou.exe
+C:\Users\WeCanCodeIT\source\repos\Projects\ProjectFour_AlexandrosNicolaou\ProjectFour_AlexandrosNicolaou\bin\Debug\ProjectFour_AlexandrosNicolaou.pdb
+C:\Users\WeCanCodeIT\source\repos\Projects\ProjectFour_AlexandrosNicolaou\ProjectFour_AlexandrosNicolaou\obj\Debug\ProjectFour_AlexandrosNicolaou.exe
+C:\Users\WeCanCodeIT\source\repos\Projects\ProjectFour_AlexandrosNicolaou\ProjectFour_AlexandrosNicolaou\obj\Debug\ProjectFour_AlexandrosNicolaou.pdb
