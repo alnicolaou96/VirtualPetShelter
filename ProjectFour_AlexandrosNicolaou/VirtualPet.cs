@@ -43,7 +43,7 @@ namespace ProjectFour_AlexandrosNicolaou
             Hunger++;
             LifeSpan++;
         }
-        public void Feed()
+        public virtual void Feed()
         {
             Hunger -= 2;
             LifeSpan++;

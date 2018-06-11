@@ -18,7 +18,11 @@ namespace ProjectFour_AlexandrosNicolaou
         public int Beef { get; set; }
         public int SoulsOfWarriors { get; set; }
 
-
+        public override void Feed()
+        {
+            Hunger -= 4;
+            LifeSpan += 2;
+        }
 
     }
 }
